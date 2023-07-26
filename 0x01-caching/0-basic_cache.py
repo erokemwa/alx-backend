@@ -1,7 +1,5 @@
 #!/usr/bin/python3
-
 """ Basic Dictionary """
-
 from base_caching import BaseCaching
 
 
